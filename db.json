@@ -1,0 +1,50 @@
+{
+    "stores": [
+        {
+            "id": 0,
+            "label": "Todas"
+        },
+        {
+            "id": 1,
+            "label": "Unidade Centro POA"
+        },
+        {
+            "id": 2,
+            "label": "Unidade Sarandi POA"
+        },
+        {
+            "id": 3,
+            "label": "Atacado Campinas"
+        },
+        {
+            "id": 4,
+            "label": "Unidade Shopping Zona Leste"
+        }
+    ],
+    "sku": [
+        {
+            "id": 0,
+            "label": "Todos"
+        },
+        {
+            "id": 1,
+            "label": "Tomate Longa Vida"
+        },
+        {
+            "id": 2,
+            "label": "Leite Integral Parmalat"
+        },
+        {
+            "id": 3,
+            "label": "Pomarola Tradicional"
+        },
+        {
+            "id": 4,
+            "label": "Macarrão Renata Penne Integral 500g"
+        },
+        {
+            "id": 5,
+            "label": "Arroz Tio João 1Kg"
+        }
+    ]
+}
