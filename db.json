@@ -1,26 +1,28 @@
 {
-    "supermarket": {
-        "id": 0,
-        "label": "UniSuper",
-        "stores": [
-            {
-                "id": 0,
-                "label": "Unidade Centro POA"
-            },
-            {
-                "id": 1,
-                "label": "Unidade Sarandi POA"
-            },
-            {
-                "id": 2,
-                "label": "Atacado Campinas"
-            },
-            {
-                "id": 3,
-                "label": "Unidade Shopping Zona Leste"
-            }
-        ]
-    },
+    "supermarket": [
+        {
+            "id": 0,
+            "label": "UniSuper",
+            "stores": [
+                {
+                    "id": 0,
+                    "label": "Unidade Centro POA"
+                },
+                {
+                    "id": 1,
+                    "label": "Unidade Sarandi POA"
+                },
+                {
+                    "id": 2,
+                    "label": "Atacado Campinas"
+                },
+                {
+                    "id": 3,
+                    "label": "Unidade Shopping Zona Leste"
+                }
+            ]
+        }
+    ],
     "sku": [
         {
             "id": 0,
