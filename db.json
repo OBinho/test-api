@@ -24,43 +24,23 @@
     "sku": [
         {
             "id": 0,
-            "label": "Tomate Longa Vida",
-            "unidade": {
-                "id": 0,
-                "label": "Pouch"
-            }
+            "label": "Tomate Longa Vida"
         },
         {
             "id": 1,
-            "label": "Leite Integral Parmalat",
-            "unidade": {
-                "id": 1,
-                "label": "Caixa"
-            }
+            "label": "Leite Integral Parmalat"
         },
         {
             "id": 2,
-            "label": "Pomarola Tradicional",
-            "unidade": {
-                "id": 0,
-                "label": "Pouch"
-            }
+            "label": "Pomarola Tradicional"
         },
         {
             "id": 3,
-            "label": "Macarrão Renata Penne Integral 500g",
-            "unidade": {
-                "id": 2,
-                "label": "Pacote"
-            }
+            "label": "Macarrão Renata Penne Integral 500g"
         },
         {
             "id": 4,
-            "label": "Arroz Tio João 1Kg",
-            "unidade": {
-                "id": 2,
-                "label": "Pacote"
-            }
+            "label": "Arroz Tio João 1Kg"
         }
     ]
 }
