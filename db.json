@@ -1,5 +1,5 @@
 {
-    "supermarket": [
+    "supermarket": {
         "id": 0,
         "label": "UniSuper",
         "stores": [
@@ -20,7 +20,7 @@
                 "label": "Unidade Shopping Zona Leste"
             }
         ]
-    ],
+    },
     "sku": [
         {
             "id": 0,
