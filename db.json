@@ -1,50 +1,66 @@
 {
-    "stores": [
-        {
-            "id": 0,
-            "label": "Todas"
-        },
-        {
-            "id": 1,
-            "label": "Unidade Centro POA"
-        },
-        {
-            "id": 2,
-            "label": "Unidade Sarandi POA"
-        },
-        {
-            "id": 3,
-            "label": "Atacado Campinas"
-        },
-        {
-            "id": 4,
-            "label": "Unidade Shopping Zona Leste"
-        }
+    "supermarket": [
+        "id": 0,
+        "label": "UniSuper",
+        "stores": [
+            {
+                "id": 0,
+                "label": "Unidade Centro POA"
+            },
+            {
+                "id": 1,
+                "label": "Unidade Sarandi POA"
+            },
+            {
+                "id": 2,
+                "label": "Atacado Campinas"
+            },
+            {
+                "id": 3,
+                "label": "Unidade Shopping Zona Leste"
+            }
+        ]
     ],
     "sku": [
         {
             "id": 0,
-            "label": "Todos"
+            "label": "Tomate Longa Vida",
+            "unidade": [
+                "id": 0,
+                "label": "Pouch"
+            ]
         },
         {
             "id": 1,
-            "label": "Tomate Longa Vida"
+            "label": "Leite Integral Parmalat",
+            "unidade": [
+                "id": 1,
+                "label": "Caixa"
+            ]
         },
         {
             "id": 2,
-            "label": "Leite Integral Parmalat"
+            "label": "Pomarola Tradicional",
+            "unidade": [
+                "id": 0,
+                "label": "Pouch"
+            ]
         },
         {
             "id": 3,
-            "label": "Pomarola Tradicional"
+            "label": "Macarrão Renata Penne Integral 500g",
+            "unidade": [
+                "id": 2,
+                "label": "Pacote"
+            ]
         },
         {
             "id": 4,
-            "label": "Macarrão Renata Penne Integral 500g"
-        },
-        {
-            "id": 5,
-            "label": "Arroz Tio João 1Kg"
+            "label": "Arroz Tio João 1Kg",
+            "unidade": [
+                "id": 2,
+                "label": "Pacote"
+            ]
         }
     ]
 }
