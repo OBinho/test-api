@@ -21,6 +21,16 @@
                     "label": "Unidade Shopping Zona Leste"
                 }
             ]
+        },
+        {
+            "id": 1,
+            "label": "Mercado Legal",
+            "stores": []
+        },
+        {
+            "id": 2,
+            "label": "Mercado Bacana",
+            "stores": []
         }
     ],
     "sku": [
